@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0284c7&height=220&section=header&text=Kedar%20Mhetre&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI-Native%20Builder%20%7C%20Forward%20Deployed%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0284c7&height=220&section=header&text=Kedar%20Mhetre&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Business+problem+%E2%86%92+working+AI+prototype;Multi-agent+systems+%7C+RAG+%7C+LLM+tooling;Spec+it.+Generate+it+with+Claude+Code.+Ship+it.;Open+to+Forward+Deployed+Engineer+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Business+problem+%E2%86%92+working+AI+prototype;Multi-agent+systems+%7C+RAG+%7C+LLM+tooling;Spec+it.+Generate+it+with+Claude+Code.+Ship+it.;Open+to+AI+Engineering+roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Forward%20Deployed%20Engineer-7dd3fc?style=for-the-badge&logo=googlejobs&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%20Engineer-7dd3fc?style=for-the-badge&logo=googlejobs&logoColor=white)
 ![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-0284c7?style=for-the-badge&logo=anthropic&logoColor=white)
 
 <br/>
@@ -31,7 +31,7 @@ I take a business problem and a dataset and turn them into a **working AI soluti
 
 ```typescript
 const kedarMhetre = {
-  role: "AI-Native Builder / Forward Deployed Engineer",
+  role: "AI Engineer / Full-Stack Builder",
   workflow: ["Define spec", "Generate with Claude Code", "Review & test", "Demo", "Iterate"],
   stack: {
     agenticAI: ["Multi-Agent Orchestration", "LLM Tool Calling", "Structured Outputs", "OpenAI Responses API", "Prompt Engineering"],
@@ -41,7 +41,7 @@ const kedarMhetre = {
     tooling: ["Claude Code", "Git/GitHub", "Automated Testing", "VS Code"],
   },
   domains: ["Analytics", "Legal NLP", "Generative imaging", "Enterprise document retrieval"],
-  openTo: ["Forward Deployed Engineer roles", "AI Engineer roles", "Rapid-prototyping AI projects"],
+  openTo: ["AI Engineer roles", "Full-Stack AI roles", "Rapid-prototyping AI projects"],
 };
 ```
 
